@@ -58,8 +58,8 @@ http://localhost/calculator_project/index.html
 
 ## 📧 Contact  
 For any questions or contributions, feel free to reach out!  
-📩 Email: your.email@example.com  
-💼 GitHub: [your-github-profile](https://github.com/your-github-profile)  
+📩 Email: eliyaphilip92@gmail.com  
+💼 GitHub: [@Eliyaphilip](https://github.com/Eliaphilip)  
 
 ---
 
